@@ -1,0 +1,30 @@
+{
+  "name": "html-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ussf-nassrallah/html-template"
+  },
+  "author": "youssef nasrallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ussf-nassrallah/html-template/issues"
+  },
+  "homepage": "https://github.com/Ussf-nassrallah/html-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0"
+  }
+}
