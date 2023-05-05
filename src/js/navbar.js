@@ -1,4 +1,1 @@
-function navbar() {
-  console.log("navbar.js file");
-}
-navbar();
+console.log("NAVBAR");
